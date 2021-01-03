@@ -1,5 +1,4 @@
-// Datum und Zeit.cpp : Definiert den Einstiegspunkt für die Konsolenanwendung.
-//
+// Datum und Zeit
 
 #include "stdafx.h"
 #include <iostream>
